@@ -1,4 +1,5 @@
 //changes made include the "NEW" text after a new message is added on line 115
+// couldn't see it well in the app so it's now black instead of white
 // and added the .clear() method to the text controllers to clear the text fields after a message is submitted on line 486
 
 
