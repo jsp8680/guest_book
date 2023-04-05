@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:guest_book/pages/about_us.dart';
-import 'package:guest_book/pages/contact_us.dart';
-import 'package:guest_book/pages/home.dart';
-import 'package:guest_book/pages/auth_gate.dart';
+import 'package:guestbook/pages/about_us.dart';
+import 'package:guestbook/pages/contact_us.dart';
+import 'package:guestbook/pages/home.dart';
+import 'package:guestbook/pages/auth_gate.dart';
 
 
 //route names
